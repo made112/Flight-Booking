@@ -1,12 +1,27 @@
 //Instruction For Install the project 
 
 
+
 git clone https://github.com/made112/Flight-Booking.git
+
+
 cd Flight-Booking
+
+
 cp .env.example .env
-change this 
+
+
+change this'
+
+
 DB_DATABASE: The name of your database
+
+
+
 DB_USERNAME: Your database username
+
+
+
 DB_PASSWORD: Your database password
 
 run composer install
@@ -23,5 +38,9 @@ php artisan serve
 
 
 //to run the Test environment must 
+
+
 php artisan test
+
+
 //make sure the test must empty your data like (users)
