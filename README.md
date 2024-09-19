@@ -37,13 +37,22 @@ php artisan db:seed
 php artisan serve
 
 after you seed the data 
+
 you can lgoin as a admin 
+
 email:admin@example.com
+
 password:123456
 
+
 you can lgoin as a customer 
+
+
 email:user@example.com
+
+
 password:123456
+
 
 or you can register and fill the inputs
 
