@@ -38,7 +38,7 @@ php artisan serve
 
 after you seed the data 
 
-you can lgoin as a admin 
+you can login as a admin 
 
 email:admin@example.com
 
